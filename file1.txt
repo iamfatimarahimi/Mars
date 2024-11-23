@@ -1,1 +1,1 @@
-hello 
+ECHO is on.
